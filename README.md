@@ -8,3 +8,7 @@ Export Data to xlsx
 `pip install flask_excel`
 * Install pyexcel-xlsx to export xlxs files
 `pip install pyexcel-xlsx`
+
+*Run `python app.py`
+
+`wget http://localhost:5000/sheet.xlsx`
