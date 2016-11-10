@@ -9,6 +9,6 @@ Export Data to xlsx
 * Install pyexcel-xlsx to export xlxs files
 `pip install pyexcel-xlsx`
 
-*Run `python app.py`
+* Run `python app.py`
 
 `wget http://localhost:5000/sheet.xlsx`
